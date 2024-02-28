@@ -7,11 +7,12 @@ TagManager:
   - CinemachineTarget
   - TrashBag
   - Pipe
+  - Pushable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pushable
   - Water
   - UI
   - 
