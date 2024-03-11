@@ -8,6 +8,7 @@ TagManager:
   - TrashBag
   - Pipe
   - Pushable
+  - end
   layers:
   - Default
   - TransparentFX
